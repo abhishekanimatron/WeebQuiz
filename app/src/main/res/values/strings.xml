@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quizzy</string>
+    <string name="weebquiz.">WeebQuiz.</string>
+    <string name="hey_there">Hey there!</string>
+    <string name="please_enter_your_name">Please enter your name:</string>
+    <string name="start">Start</string>
+    <string name="name">Name</string>
+    <string name="which_anime_s_character_is_this">Which anime\'s character is this?</string>
+    <string name="todo">TODO</string>
+    <string name="submit">Submit</string>
+    <string name="result">Result</string>
+    <string name="image">image</string>
+    <string name="yo_congratulations">Yo, Congratulations!</string>
+    <string name="finish">Finish</string>
+    <string name="your_score_is_4_out_of_5">Your score is 4 out of 5</string>
+    <string name="username">Username</string>
+</resources>
